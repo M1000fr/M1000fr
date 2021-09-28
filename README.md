@@ -18,10 +18,10 @@ My material :
   - **240 Gb NVME Gen 3**
   - **512 Gb SSD**
   - **1 To SSD**
-  - Trust Gaming GXT 252+
-  - Roccat Vulcan 120 aimo
-  - Screen Samsung 27" 240 Hz
-  - Screen Acer 24" 144 Hz
+  - **Trust Gaming GXT 252+**
+  - **Roccat Vulcan 120 aimo**
+  - **Screen Samsung 27" 240 Hz**
+  - **Screen Acer 24" 144 Hz**
 
 </br>
 
