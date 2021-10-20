@@ -36,8 +36,9 @@ My material :
 
 ## 💦 **Statistics**
 ---
-[![Github](https://github-readme-stats.vercel.app/api?username=M1O0O)](https://github.com/M1O0O/aboutme)
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=M1000)](https://github.com/M1O0O/aboutme)
+[![Github](https://github-readme-stats.vercel.app/api?username=M1O0O)](https://github.com/M1O0O)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=M1000)](https://wakatime.com/@M1000)  
+[![Total](https://wakatime.com/badge/user/dcf97548-4be1-4f9a-8734-a963734639a0.svg)](https://wakatime.com/@M1000)
 
 ## ☎️ **Contact**
 ---
