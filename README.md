@@ -13,7 +13,7 @@ My material :
 </br>
 
 - My Computer
-  - **Ryzen 3900x Overclocked at 4.6 Ghz**
+  - **Ryzen 9 3900x Overclocked at 4.6 Ghz**
   - **8 Gb DDR4 3600 Mhz** * 2
   - **MSI Nvidia RTX 2070 Ventus**
   - **240 Gb NVME Gen 3**
