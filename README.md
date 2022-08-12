@@ -10,6 +10,14 @@ My material :
   - **512 Gb SSD**
   - **10 Gb/s Fiber NIC SFP+**
 
+- New Server
+  - **Ryzen 9 5950x**
+  - **NZXT Z73**
+  - **32 Gb DDR4 3200 Mhz** * 4
+  - **1 To SSD** * 3 (RAID 5)
+  - **1 To NVEM Gen 4** * 3 (RAID 5)
+  - **10 Gb/s Fiber NIC SFP+**
+
 </br>
 
 - My Computer
