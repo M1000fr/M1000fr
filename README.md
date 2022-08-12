@@ -7,7 +7,7 @@ My material :
   - **Ryzen 9 5950x**
   - **NZXT Z73**
   - **32 Gb DDR4 3200 Mhz** * 4
-  - **Samsung 870 QVO 1 TB ** * 3 (RAID 5)
+  - **Samsung 870 QVO 1 TB** * 3 (RAID 5)
   - **Western Digital Black SN850 1 TB** * 3 (RAID 5)
   - **be quiet! Silent Base 802**
   - **10 Gb/s Fiber NIC SFP+**
