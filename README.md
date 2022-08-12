@@ -43,5 +43,5 @@ My material :
 
 ## ☎️ **Contact**
 ---
-- Discord: [M1000.fr#0008](https://discord.com/users/708395696264577054)
+- Discord: [M1000.fr#0001](https://discord.com/users/957397658874576906)
 - E-Mail: [contact@m1000.fr](mailto:contact@m1000.fr)
