@@ -6,9 +6,16 @@ My material :
 - Home Server
   - **Ryzen 9 5950x**
   - **NZXT Z73**
-  - **32 Gb DDR4 3200 Mhz** * 4
-  - **Samsung 870 QVO 1 TB** * 3 (RAID 5)
-  - **Western Digital Black SN850 1 TB** * 3 (RAID 5)
+  - **32 Gb DDR4 3200 Mhz**
+  - **32 Gb DDR4 3200 Mhz**
+  - **32 Gb DDR4 3200 Mhz**
+  - **32 Gb DDR4 3200 Mhz**
+  - **Samsung 870 QVO 1 TB** (RAID 5)
+  - **Samsung 870 QVO 1 TB** (RAID 5)
+  - **Samsung 870 QVO 1 TB** (RAID 5)
+  - **Western Digital Black SN850 1 TB** (RAID 5)
+  - **Western Digital Black SN850 1 TB** (RAID 5)
+  - **Western Digital Black SN850 1 TB** (RAID 5)
   - **be quiet! Silent Base 802**
   - **10 Gb/s Fiber NIC SFP+**
 
@@ -16,10 +23,13 @@ My material :
 
 - My Computer
   - **Ryzen 9 3900x Overclocked at 4.6 Ghz**
-  - **8 Gb DDR4 3600 Mhz** * 2
+  - **8 Gb DDR4 3600 Mhz**
+  - **8 Gb DDR4 3600 Mhz**
   - **MSI Nvidia RTX 2070 Ventus**
   - **240 Gb NVME Gen 3**
   - **512 Gb SSD**
+  - **512 Gb SSD**
+  - **240 Gb SSD**
   - **1 To SSD**
   - **Trust Gaming GXT 252+**
   - **Roccat Vulcan 120 aimo**
