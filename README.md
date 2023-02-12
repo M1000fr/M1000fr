@@ -9,7 +9,7 @@ My material :
   - **32 Gb DDR4 3200 Mhz** * 4
   - **Samsung 870 QVO 1 TB** (RAID 5) * 3
   - **Western Digital Black SN850 1 TB** (RAID 5) * 3
-  - **Western Digital Gold Datacenter 8 TB** (RAID 5) * 4
+  - **Western Digital Gold Datacenter 8 TB** (RAIDZ) * 4
   - **be quiet! Silent Base 802**
   - **10 Gb/s Fiber NIC SFP+**
 
@@ -17,12 +17,10 @@ My material :
 
 - My Computer
   - **Ryzen 9 3900x Overclocked at 4.6 Ghz**
-  - **8 Gb DDR4 3600 Mhz**
-  - **8 Gb DDR4 3600 Mhz**
+  - **8 Gb DDR4 3600 Mhz** * 2
   - **MSI Nvidia RTX 2070 Ventus**
   - **240 Gb NVME Gen 3**
-  - **512 Gb SSD**
-  - **512 Gb SSD**
+  - **512 Gb SSD** * 2
   - **240 Gb SSD**
   - **1 To SSD**
   - **Trust Gaming GXT 252+**
