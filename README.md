@@ -1,4 +1,4 @@
-[![Banner](https://svg-banners.vercel.app/api?type=glitch&text1=🌿M1000.fr🌿&width=800&height=400)](https://github.com/M1O0O)
+[![Banner](https://svg-banners.vercel.app/api?type=origin&text1=M1000.fr%20%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC)](https://github.com/M1O0O)
 
 Young French adult of 19 years passionate about development.  
 My material :
