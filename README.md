@@ -18,7 +18,7 @@ Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
   - **Dell N1524**
 
 ## 💦 **Statistics**
-[![Rémi's GitHub stats](https://github-readme-stats-m1000.vercel.app/api?username=M1000fr&hide=stars&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rémi's GitHub stats](https://github-readme-stats-m1000.vercel.app/api?username=M1000fr&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ☎️ **Contact**
 - Discord: [m1000fr](https://discordapp.com/users/1105347662196256838)
