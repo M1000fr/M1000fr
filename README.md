@@ -2,7 +2,7 @@
 
 Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
 
-- Home Server
+- Home Server :
   - **Ryzen 9 5950x**
   - **NZXT Z73**
   - **32 Gb DDR4 3200 Mhz** * 4
@@ -13,7 +13,7 @@ Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
   - **10 Gb/s Fiber NIC SFP+**
 </br>
 
-- Network
+- Network :
   - **FreeBox Delta**
   - **Dell N1524**
 
