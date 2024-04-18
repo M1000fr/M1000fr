@@ -18,6 +18,8 @@ Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
   - [**Mikrotik CCR2004-1G-12S+2XS**](https://mikrotik.com/product/ccr2004_1g_12s_2xs)
   - [**Dell N1524**](https://www.officetech.fr/dell-networking-n1524-commutateur-c2-gere-24-x-10-100-1000-4-x-10-gigabit-sfp-montable-sur-rack.html)
 
+![Speedtest Network](https://www.speedtest.net/result/c/abf556b3-3267-4ef3-8147-9381579f58d1.png)
+
 ## 💦 **Statistics**
 [![Rémi's GitHub stats](https://github-readme-stats-m1000.vercel.app/api?username=M1000fr&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
