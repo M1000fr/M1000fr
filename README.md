@@ -21,7 +21,7 @@ Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
 ![Speedtest Network](https://www.speedtest.net/result/c/abf556b3-3267-4ef3-8147-9381579f58d1.png)
 
 ## 💦 **Statistics**
-[![Rémi's GitHub stats](https://github-readme-stats-m1000.vercel.app/api?username=M1000fr&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://img.shields.io/endpoint?url=https://wakapi.m1000.fr/api/compat/shields/v1/M1000/interval:30_days&label=last%2030d)](https://wakapi.m1000.fr/leaderboard)
 
 ## ☎️ **Contact**
 - Discord: [m1000fr](https://discordapp.com/users/1105347662196256838)
