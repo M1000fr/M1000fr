@@ -3,7 +3,7 @@
 Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
 
 - Home Server :
-  - [**Ryzen 9 5950x**](https://www.amd.com/fr/products/cpu/amd-ryzen-9-5950x)
+  - [**Ryzen 9 5950x**](https://www.amazon.fr/AMD-Ryzen-9-5950X-RyzenTM/dp/B0815Y8J9N)
   - [**NZXT Z73**](https://nzxt.com/fr-FR/product/kraken-z73)
   - **32 Gb DDR4 3200 Mhz** * 4
   - [**Samsung 870 QVO 1 TB**](https://www.samsung.com/fr/memory-storage/sata-ssd/870-qvo-sata-2-5-inch-ssd-1tb-mz-77q1t0bw/) (RAID 5) * 3
