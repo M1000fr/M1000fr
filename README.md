@@ -1,6 +1,6 @@
 [![Banner](https://svg-banners.vercel.app/api?type=origin&text1=🐈%20M1000.fr)](https://github.com/M1O0O)
 
-Jeune développeur avec 20 ans d'uptime, toujours en quête d'apprentissage !
+Jeune développeur avec 21 ans d'uptime, toujours en quête d'apprentissage !
 
 - Home Server :
   - [**Ryzen 9 5950x**](https://www.amazon.fr/AMD-Ryzen-9-5950X-RyzenTM/dp/B0815Y8J9N)
