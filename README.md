@@ -27,4 +27,4 @@ Jeune développeur avec 21 ans d'uptime, toujours en quête d'apprentissage !
 - Discord: [m1000fr](https://discordapp.com/users/1105347662196256838)
 - E-Mail: [contact@m1000.fr](mailto:contact@m1000.fr)
 
-![Speedtest Network](https://www.speedtest.net/result/c/abf556b3-3267-4ef3-8147-9381579f58d1.png)
+![Speedtest Network](https://www.speedtest.net/result/c/317e9d01-db89-482d-8c2a-1a133e59748a.png)
