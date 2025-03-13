@@ -4,6 +4,16 @@ Jeune développeur avec 21 ans d'uptime, toujours en quête d'apprentissage !
 
 [![Stats](https://img.shields.io/endpoint?url=https://wakapi.m1000.fr/api/compat/shields/v1/m1000/interval:all_time&label=all%20time)](https://wakapi.m1000.fr/leaderboard)
 
+## 🐈 **Computer**
+- [**Ryzen 9950x**](https://www.amd.com/fr/products/processors/desktops/ryzen/9000-series/amd-ryzen-9-9950x.html)
+- [**ASUS PRIME RTX 5080 16GB OC**](https://www.asus.com/fr/motherboards-components/graphics-cards/prime/prime-rtx5080-o16g/)
+- [**NZXT Kraken 360**](https://nzxt.com/fr-FR/product/kraken-360?srsltid=AfmBOorcHfQmtQqL1-qv7EuRHj1DgFIsS2Bl4zO_4ki5zZYAHCC90LBR)
+- [**CORSAIR Vengeance DDR5 RAM 64Go (2x32Go) 6000MHz**](https://www.amazon.fr/dp/B0C5M6SJYW?ref=ppx_yo2ov_dt_b_fed_asin_title)
+- [**WD_BLACK SN850X SSD 4 To**](https://www.ldlc.com/fiche/PB00512214.html)
+- [**WD_BLACK SN770 SSD 2 To**](https://www.ldlc.com/fiche/PB00482502.html)
+- [**be quiet ! Dark Power 13 1000W**](https://www.bequiet.com/fr/powersupply/4042)
+- [**NZXT H7 Flow**](https://nzxt.com/fr-FR/product/h7-flow)
+
 ## ✈ **Home Server**
 - [**Ryzen 9 5950x**](https://www.amazon.fr/AMD-Ryzen-9-5950X-RyzenTM/dp/B0815Y8J9N)
 - [**NZXT Z73**](https://nzxt.com/fr-FR/product/kraken-z73)
