@@ -62,5 +62,5 @@ Développeur avec 22 ans d'uptime, toujours en quête d'apprentissage !
 - [Hastebin](https://hastebin.m1000.fr/)
 
 ## ☎️ **Contact**
-- Discord: [m1000fr](https://discordapp.com/users/1105347662196256838)
+- Discord: [m1000_fr](https://discordapp.com/users/1105347662196256838)
 - E-Mail: [contact@m1000.fr](mailto:contact@m1000.fr)
