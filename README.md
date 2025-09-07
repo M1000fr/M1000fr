@@ -54,7 +54,7 @@ Développeur avec 22 ans d'uptime, toujours en quête d'apprentissage !
 ![](https://img.shields.io/badge/Malt-FC5757.svg?style=for-the-badge&logo=Malt&logoColor=white)
 
 ## 🖨️ Projets
-- [**TinyRack**](https://github.com/TinyRackHost)
+- [**Corelia**](https://github.com/coreliabot)
 
 ## ✨ **Services SelfHost**
 - [Uptime](https://uptime.m1000.fr/)
