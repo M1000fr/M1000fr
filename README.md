@@ -53,9 +53,6 @@ Développeur avec 22 ans d'uptime, toujours en quête d'apprentissage !
 ![](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
 ![](https://img.shields.io/badge/Malt-FC5757.svg?style=for-the-badge&logo=Malt&logoColor=white)
 
-## 🖨️ Projets
-- [**Corelia**](https://github.com/coreliabot)
-
 ## ✨ **Services SelfHost**
 - [Uptime](https://uptime.m1000.fr/)
 - [Wakapi](https://wakapi.m1000.fr/)
